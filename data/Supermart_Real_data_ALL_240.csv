@@ -1,0 +1,241 @@
+product_name,department_name,price_naira,on_sale,delivery_flag
+De Rica Tomato Paste Sachet 70g x10,Oil & Sauces,2050,True,Same-Day
+Palm Oil 1.5 L,Oil & Sauces,4950,False,Same-Day
+Power Vegetable Oil 750 ml,Oil & Sauces,4150,False,Same-Day
+Gino Magic Peppe & Onion Tomato Mix Sachet 70g x10,Oil & Sauces,2050,True,Same-Day
+Heinz Tomato Ketchup 300 g,Oil & Sauces,2690,False,Same-Day
+Palm Oil 5 L,Oil & Sauces,14500,False,Same-Day
+King's Vegetable Oil 3 L,Oil & Sauces,14765,False,Same-Day
+Gino Party Jollof Tomato Seasoning Mix 60 g,Oil & Sauces,245,False,Same-Day
+King's Vegetable Oil 5 L,Oil & Sauces,23800,False,Same-Day
+Mamador Pure Vegetable Oil 1.5 L,Oil & Sauces,7995,False,Same-Day
+Amoy Dark Soy Sauce 150 ml,Oil & Sauces,990,False,7-10 Days
+Amoy Blended Sesame Oil 150 ml,Oil & Sauces,1865,False,Same-Day
+Amoy Premium Oyster Sauce 150 ml,Oil & Sauces,1230,False,Same-Day
+King's Vegetable Oil 1 L,Oil & Sauces,5250,False,Same-Day
+Sonia Tomato Paste Tin 400 g,Oil & Sauces,1425,True,Same-Day
+Gratia Chin Chin Flakes 30 g,Snacks,300,False,Same-Day
+Maltesers 37 g,Snacks,2150,False,Same-Day
+So Yummy Popcorn Caramel 30 g,Snacks,165,False,Same-Day
+Sky Flakes Crackers 800 g x32,Snacks,18445,False,Same-Day
+Lindt Swiss Luxury Selection Assorted Chocolate Box 193 g,Snacks,38920,False,Same-Day
+Kellogg's Rice Krispies Squares Chocolatey Cereal Bars Multi-Pack 4x36g,Snacks,12235,False,7-10 Days
+Oreo Original Twin Pack 102 g,Snacks,1750,False,Same-Day
+Pringles Original 165 g,Snacks,4015,True,Same-Day
+Beloxxi Cream Crackers 100 g,Snacks,480,False,Same-Day
+Groundnut Bottle,Snacks,3400,False,Same-Day
+Snickers 50 g,Snacks,1450,False,Same-Day
+Mars 50 g,Snacks,1450,False,Same-Day
+Nadis Cashew Nuts 190 g,Snacks,4445,False,Same-Day
+McVitie's Rich Tea 200 g,Snacks,1400,False,Same-Day
+Delicious Plantain Chips Salted 500 g,Snacks,6160,False,Same-Day
+Coca Cola Coke Pet Bottle 50 cl x12,Drinks,5880,False,Same-Day
+Dano UHT Full Cream Milk 1 L,Drinks,3835,False,Same-Day
+Chivita Active Citrus Mixed Fruit Juice 100 cl,Drinks,2210,False,Same-Day
+CWAY Refill Water,Drinks,2100,False,Same-Day
+Capri Sun Orange 20 cl x40,Drinks,14600,False,Same-Day
+Schweppes Virgin Mojito Can 33 cl x6,Drinks,3450,False,Same-Day
+WellWoman Can Drink 25 cl x24,Drinks,85645,False,Same-Day
+Chi Ice Tea Lemon 100 cl,Drinks,1325,False,Same-Day
+Nescafe Gold Blend Coffee Decaff 100 g,Drinks,10510,False,Same-Day
+Sprite Pet Bottle 50 cl,Drinks,490,False,Same-Day
+Maltina Classic Malt Drink Can 33 cl,Drinks,735,False,Same-Day
+Arizona Fruit Juice Cocktail Watermelon Can 68 cl x24,Drinks,69670,False,Same-Day
+Fanta Orange Pet Bottle 50 cl x12,Drinks,5880,False,Same-Day
+Monster Ultra Energy Drink Zero Sugar 44 cl,Drinks,1100,False,Same-Day
+Twinings Lemon Green Tea 40 g x20,Drinks,7950,False,Same-Day
+Flirt Pure Grain Vodka 100 cl,Alcohol,8980,False,Same-Day
+Desperados Tequila Flavoured Beer Bottle 45 cl,Alcohol,1235,False,Same-Day
+Captain Jack Cafe Rum 75 cl,Alcohol,3650,False,Same-Day
+Goldberg Premium Lager Beer Can 50 cl x12,Alcohol,29850,False,Same-Day
+Guinness Foreign Extra Stout Can 33 cl,Alcohol,1230,False,Same-Day
+4th Street Sweet White Wine 75 cl,Alcohol,5350,False,Same-Day
+Baileys Irish Cream 70 cl,Alcohol,27540,False,Same-Day
+Hennessy VS Cognac 70 cl,Alcohol,58080,False,Same-Day
+Jack Daniel's Tennessee Whiskey 37.5 cl,Alcohol,17255,False,Same-Day
+Heineken Lager Beer Can 33 cl,Alcohol,840,False,Same-Day
+Tullamore Dew Irish Whiskey 70 cl,Alcohol,24290,False,Same-Day
+Bacardi Carta Blanca Superior White Rum 75 cl,Alcohol,17020,False,Same-Day
+Casillero Del Diablo Sauvignon Blanc 75 cl,Alcohol,14215,False,Same-Day
+Martini Sparkling Rose 75 cl,Alcohol,16760,False,Same-Day
+Sierra Tequila Silver 70 cl,Alcohol,15560,False,Same-Day
+Morning Fresh Dish Washing Liquid Assorted 1 L,Cleaning,3930,False,Same-Day
+Hypo Super Bleach 1 L,Cleaning,3585,False,Same-Day
+Sponge Scourers x10,Cleaning,1300,False,Same-Day
+Harpic Cleaning Gel Assorted 725 ml,Cleaning,5655,False,Same-Day
+Mop,Cleaning,2500,False,Same-Day
+Mama Lemon Dish Washing Liquid 1.1 L,Cleaning,2985,False,Same-Day
+Mr Sheen Multi-Surface Polish Assorted 300 ml,Cleaning,4590,False,Same-Day
+Hypo Toilet Cleaner 725 ml,Cleaning,4465,False,Same-Day
+Broom - Long,Cleaning,1300,False,Same-Day
+Jik Bleach Assorted 1.4 L,Cleaning,5235,False,Same-Day
+Astonish Window & Glass Cleaner 750 ml,Cleaning,5520,False,Same-Day
+Dettol Antiseptic Disinfectant 250 ml,Cleaning,6935,False,Same-Day
+LB Lemon Fresh Liquid Wash 4 L,Cleaning,10990,False,Same-Day
+Voom Scouring Powder 500 g,Cleaning,1090,False,Same-Day
+Windolene 4 Action System Glass & Shiny Surfaces 750 ml,Cleaning,8280,False,Same-Day
+Morning Fresh Dish Washing Liquid Assorted 1 L,Household,3930,False,Same-Day
+Sponge Scourers x10,Household,1300,False,Same-Day
+Mortein All Insect Killer Lemon 300 ml,Household,4220,False,Same-Day
+Baygon Insecticide 500 ml,Household,6155,False,Same-Day
+Toilet Brush,Household,2400,False,Same-Day
+Rambo Insecticide Original 500 ml,Household,4860,False,Same-Day
+Dailyneed Sweeper,Household,3360,False,Same-Day
+Sunplast Living Bucket Plain 13 L,Household,3230,False,Same-Day
+Danaplast Mop Bucket - Big,Household,5040,False,Same-Day
+2Sure Dish Washing Liquid Original 1 L,Household,3060,False,Same-Day
+Mity Fresh Mixed Vegetables 400 g,Frozen,4250,False,Same-Day
+Blue Band Margarine 250 g,Frozen,2730,True,Same-Day
+Sympli African Yam Fries 500 g,Frozen,2750,False,Same-Day
+Lurpak Butter Salted 200 g,Frozen,8480,False,Same-Day
+Blue Band Spread For Bread 450 g,Frozen,3000,True,Same-Day
+Golden Phoenix French Fries 2.5 kg,Frozen,19550,False,Same-Day
+FanIce Ice Cream Vanilla 3 L,Frozen,14190,False,Same-Day
+Haagen-Dazs Ice Cream Salted Caramel 100 ml,Frozen,6050,False,Same-Day
+President Butter Unsalted 200 g,Frozen,10330,False,Same-Day
+M & J Chicken Samosa 300 g x12,Frozen,3500,False,Same-Day
+Serviette 1 Ply 50 Sheets,Kitchen & Dining,525,False,Same-Day
+Boulos Rose Belle Kitchen Towel 2 Ply 1 Roll,Kitchen & Dining,1960,True,Same-Day
+Ziploc Easy Open Tabs Storage Bags Quart x54,Kitchen & Dining,4980,False,Same-Day
+Victory Cling Film 30 cm x20 m,Kitchen & Dining,1595,False,Same-Day
+Kitchen Knife - Large,Kitchen & Dining,1400,False,Same-Day
+Take Away Pack Plastic - Large - x10,Kitchen & Dining,1700,True,Same-Day
+Dish Rack,Kitchen & Dining,8000,False,Same-Day
+Rossetti 3 Way Can Opener 4035,Kitchen & Dining,16100,True,Same-Day
+Ocean Glassware Charisma 34 cl x6,Kitchen & Dining,19765,False,Same-Day
+Ashton Meyers Electronic Kitchen Scale Tempura 7765,Kitchen & Dining,21720,False,Same-Day
+Little Angel Baby Wipes x125,Baby & Kids,1620,False,Same-Day
+Peak 456 Growing Up Milk 4-6 Years Sachet 380 g,Baby & Kids,5785,False,Same-Day
+Huggies Baby Wipes Pure x56,Baby & Kids,2590,False,Same-Day
+Cerelac Wheat & Milk 6 Months+ 400 g,Baby & Kids,7085,False,Same-Day
+Peak Baby Step 1 Infant Formula 0-12 Months Tin 400 g,Baby & Kids,11130,False,Same-Day
+Johnson's Baby Oil 500 ml,Baby & Kids,8970,True,Same-Day
+Molfix Size 5 Junior 11-25 kg x70,Baby & Kids,15450,False,Same-Day
+Nan 1 Optipro Starter Infant Formula From Birth 400 g,Baby & Kids,12280,False,Same-Day
+SMA Gold 3 Toddler Milk 1-3 Years 900 g,Baby & Kids,30300,False,Same-Day
+Cussons Baby Powder Gentle & Caring 400 g,Baby & Kids,3015,False,Same-Day
+Double A Business A4 Printing Paper 75 gsm,Office Supplies,7950,False,Same-Day
+Eezee Biro - Blue x50,Office Supplies,3000,False,Same-Day
+Masking Tape,Office Supplies,900,False,Same-Day
+HP 305 Ink Cartridge Black,Office Supplies,27950,False,Same-Day
+Bic Cristal Original Pen - Black x50,Office Supplies,11800,False,Same-Day
+Maped Stapler Essentials Mini N10,Office Supplies,3550,False,Same-Day
+Helix Cambridge Math Set HDA 36,Office Supplies,5200,False,Same-Day
+Rexel Anti-Slip Folder A4 Clear x25,Office Supplies,12400,False,Same-Day
+HP 305 Ink Cartridge Tri-Color,Office Supplies,27950,False,Same-Day
+Schneider Tops 505 Biro Black x50,Office Supplies,17800,False,Same-Day
+Irish Potatoes - Small Basket ~2.5 kg,Mile 12 Market,9800,False,Same-Day
+Onions - Red - Small Bowl,Mile 12 Market,7000,False,Same-Day
+Fufu - Ready To Eat x12,Mile 12 Market,1400,False,Same-Day
+Panla Fish - Smoked x40,Mile 12 Market,14000,False,Same-Day
+Yam x5 - Large,Mile 12 Market,28500,False,Same-Day
+Catfish - Smoked - Small x5,Mile 12 Market,2100,False,Same-Day
+Tatase Pepper - Big Bowl,Mile 12 Market,17000,False,Same-Day
+Egusi - Machine Peeled (Paint Bucket),Mile 12 Market,12500,False,Same-Day
+Ginger (Paint Bucket),Mile 12 Market,57500,False,Same-Day
+Crayfish - Medium (Paint Bucket),Mile 12 Market,18700,False,Same-Day
+Nivea Derma Skin Clear Face Wash Gel 150 ml,Toiletries,22815,False,Same-Day
+Euthymol Toothpaste 75 ml,Toiletries,5650,False,Same-Day
+Dove Anti-Perspirant Deodorant Spray Original 250 ml,Toiletries,5575,False,Same-Day
+Colgate Toothpaste Optic White 75 ml,Toiletries,4660,False,Same-Day
+St. Ives Body Wash Pampering Vanilla & Oat Milk 650 ml,Toiletries,10345,True,Same-Day
+Rexona Anti-Perspirant Body Spray Invisible 200 ml,Toiletries,4260,False,Same-Day
+Dettol Anti-Bacterial Soap Original 160 g,Toiletries,2355,False,Same-Day
+Vaseline Blue Seal Pure Petroleum Jelly Original 450 ml,Toiletries,3955,False,Same-Day
+Gillette Blue II Plus Razor x5,Toiletries,3475,True,Same-Day
+Listerine Mouthwash Cool Mint Milder Taste 500 ml,Toiletries,12150,False,Same-Day
+Clean & Clear Blackhead Clearing Cleanser 200 ml,Toiletries,7740,False,7-10 Days
+Dabur Herbal Toothpaste With Basil Protect 140 g,Toiletries,1200,False,Same-Day
+Johnson's Baby Oil 500 ml,Toiletries,8970,True,Same-Day
+Dudu Osun Black Soap 150 g,Toiletries,1170,False,Same-Day
+Dettol Anti-Bacterial Soap Original 70 g,Toiletries,675,False,Same-Day
+Dina Handmade Classic Baklawa Selection 200 g,UK Groceries,13905,False,7-10 Days
+Walkers Classic Variety Multi-Pack Crisps 6 x 25 g,UK Groceries,12200,False,7-10 Days
+Rowse Supahoney With Manuka & Vitamin C 250 g,UK Groceries,17840,False,Same-Day
+Kellogg's Crunchy Nut Honey & Nut Clusters Cereal 400 g,UK Groceries,20300,False,7-10 Days
+Starbucks By Nespresso Ristretto Shot 10 Coffee Capsules 57 g,UK Groceries,17295,False,7-10 Days
+Milton Anti-Bacterial Surface Spray 500 ml,UK Groceries,20495,False,7-10 Days
+Tesco Whole Cloves 30 g,UK Groceries,7050,False,7-10 Days
+Heinz Baked Beans 3 x 415 g,UK Groceries,32700,False,7-10 Days
+Jordans Natural Muesli 1 kg,UK Groceries,31530,False,7-10 Days
+Nescafe Cappuccino Instant Coffee 7 Sachets,UK Groceries,11755,False,7-10 Days
+Reese's Milk Chocolate Peanut Butter Bar 90 g,UK Groceries,10185,False,7-10 Days
+Kikkoman Soy Sauce 150 ml,UK Groceries,14435,False,7-10 Days
+Tesco Goji Berries 200 g,UK Groceries,17815,False,Shipped From Abroad
+Huggies Dry Nites Bedwetting Pyjama Nappy Pants Girl 8-13 Years x9,UK Groceries,23495,False,Same-Day
+Nutella Biscuits 20 Pieces 276 g,UK Groceries,18570,False,7-10 Days
+Maharani Organic Honey 300 g (Pet Bottle),Food Cupboard,3090,False,Same-Day
+Enamdo Poundo Potato Flakes 1 kg,Food Cupboard,9250,False,Same-Day
+Titus Sardines 125 g,Food Cupboard,2185,False,Same-Day
+De Luxe Beans Flour 900 g,Food Cupboard,5605,False,Same-Day
+Heinz Baked Beans 200 g,Food Cupboard,1115,False,Same-Day
+Green Giant Niblets Sweetcorn 340 g,Food Cupboard,1430,False,Same-Day
+Skippy Peanut Butter Smooth Creamy 462 g,Food Cupboard,8680,False,Same-Day
+Golden Penny Macaroni 500 g,Food Cupboard,1295,False,Same-Day
+Tropical Sun Golden Sella Basmati Rice 5 kg,Food Cupboard,27500,True,Same-Day
+Indomie Instant Noodles Chicken 180 g (Hungry Man) x24,Food Cupboard,17450,False,Same-Day
+Knorr Chicken Cubes 8 g x50,Food Cupboard,2430,False,Same-Day
+Barilla Penne Rigate 500 g,Food Cupboard,3995,False,Same-Day
+Kellogg's Corn Flakes 450 g (UK),Food Cupboard,9350,False,Same-Day
+Golden Penny Garri 5 kg,Food Cupboard,6925,False,Same-Day
+Golden Penny Semovita 500 g,Food Cupboard,975,False,Same-Day
+Andrews Liver Salts Lemon 5 g x50,Health & Wellness,31500,False,Same-Day
+Robb Balm 23 ml,Health & Wellness,650,False,Same-Day
+Emzor Paracetamol 96 Tablets,Health & Wellness,2000,False,Same-Day
+Pregnancy Test Strip,Health & Wellness,240,False,Same-Day
+Durex Mutual Pleasure 3 Condoms,Health & Wellness,5200,False,Same-Day
+Odomos Mosquito Repellent Cream 25 g,Health & Wellness,1190,False,Same-Day
+Panadol Extra 500 mg 10 Tablets,Health & Wellness,875,False,Same-Day
+Aboniki Balm 25 g,Health & Wellness,1300,False,Same-Day
+Panadol 500 mg 10 Tablets,Health & Wellness,875,False,Same-Day
+Nizoral Topical Cream 15 g,Health & Wellness,8750,False,Same-Day
+Ciprotab Ciprofloxacin USP 500 mg 14 Softlets,Health & Wellness,7500,False,Same-Day
+Combigan Eye Drop 5 ml,Health & Wellness,72500,False,Same-Day
+WellWoman Max 84 Tablets,Health & Wellness,41250,False,Same-Day
+Bayer Aspirin 81 mg 32 Tablets,Health & Wellness,13800,False,Same-Day
+OpticNerve Formula 120 Soft Gels,Health & Wellness,206250,False,Same-Day
+Rite-Tek Blender BL250,Electronics,55090,False,Same-Day
+Mercury UPS 2000 VA Pro,Electronics,194990,True,Same-Day
+Wahl Hair Clipper 300 Series 9246-1027,Electronics,85490,False,Same-Day
+Lontor Air Cooler CTL-CF041R,Electronics,175000,True,Same-Day
+Kenstar 16 Inch Standing Fan KS-416WT,Electronics,44490,True,Same-Day
+CWAY Water Dispenser CWM16Bl Artic 1B 3 Taps,Electronics,242500,False,Same-Day
+PS5 Controller,Electronics,187990,True,Same-Day
+Prag Servo Stabilizer Pc-Svs10 KVA,Electronics,524990,False,Same-Day
+Mercury Maverick 850 UPS Offline Mav850,Electronics,57990,True,Same-Day
+Binatone Sandwich Toaster 2 Slices ST-801,Electronics,31490,True,Same-Day
+Scanfrost Microwave Grill 23 L SF23-BW,Electronics,179990,False,Same-Day
+Binatone Electric Kettle 1.7L CEJ-1780,Electronics,27490,True,Same-Day
+Tec Generator Set Bobo 2800 ES Small Petrol 2.5 KVA-2.0 Kw,Electronics,519990,False,Same-Day
+SanDisk Cruzer Glide 3.0 G-G35 64 GB,Electronics,18490,False,Same-Day
+AfriOne Table Top Cooker GSG0201 2 Gas - Glass,Electronics,47990,True,Same-Day
+Carrot 1 kg,Fresh Food,3950,True,Same-Day
+Eggcellent Eggs x30,Fresh Food,8250,False,Same-Day
+Agege Bread - Medium,Fresh Food,700,False,Same-Day
+Tomatoes - Quarter Crate (Firm),Fresh Food,25500,True,Same-Day
+Spinach ~1 kg,Fresh Food,4950,False,Same-Day
+Artisan Butchery Beef Mince Meat 500 g,Fresh Food,5120,False,Same-Day
+Chi Chicken Drumstick ~1 kg - Frozen,Fresh Food,15450,False,Same-Day
+Strawberry Pack,Fresh Food,6500,False,Same-Day
+Cheddar Cheese Portion ~250 g (White),Fresh Food,10720,False,Same-Day
+Tomatoes - Crate (Firm),Fresh Food,75000,True,Same-Day
+Avocado x2,Fresh Food,2800,False,Same-Day
+Parmesan Cheese ~200 g,Fresh Food,11800,False,Same-Day
+Watermelon - Large,Fresh Food,3000,True,Same-Day
+Dolait Yoghurt Strawberry Cup 500 g,Fresh Food,4100,False,Same-Day
+Maestrella Mozzarella ~200 g,Fresh Food,6420,True,Same-Day
+Efo Soko - Cut Up,Naija Ingredients,700,False,Under 3 Hours
+Crayfish - Whole (Milk Cup),Naija Ingredients,1490,False,Under 3 Hours
+Garri - Ijebu (Paint Bucket),Naija Ingredients,2300,False,Under 3 Hours
+Groundnut Paste,Naija Ingredients,1400,False,Under 3 Hours
+Plantain - Unripe x6,Naija Ingredients,3700,False,Under 3 Hours
+Rodo Pepper - Yellow x7,Naija Ingredients,550,False,Under 3 Hours
+Onions 1 kg,Naija Ingredients,2200,False,Under 3 Hours
+Egusi Peeled - Whole (Milk Cup),Naija Ingredients,750,False,Under 3 Hours
+Beans - Olotu (Paint Bucket),Naija Ingredients,6800,True,Under 3 Hours
+Elubo Isu (Paint Bucket),Naija Ingredients,12000,True,Under 3 Hours
+Tomatoes - Half Crate (Firm),Naija Ingredients,37500,True,Under 3 Hours
+New Yam - Medium,Naija Ingredients,5600,False,Under 3 Hours
+Onions - Red Onions - Half Bag,Naija Ingredients,48000,True,Under 3 Hours
+Ogbono - Blended (Milk Cup),Naija Ingredients,2500,True,Under 3 Hours
+Tomatoes - Crate (Firm),Naija Ingredients,75000,True,Under 3 Hours
