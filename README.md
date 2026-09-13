@@ -166,7 +166,7 @@ The 5 most expensive sampled products (up to **₦524,990**) all carry the ident
 
 ## 📎 Full Case Study
 
-A complete written case study — business problem, methodology, all 5 findings with evidence, and recommendations — is available in [`/docs/Supermart_Case_Study.docx`](./docs/Supermart_Case_Study.docx).
+A complete written case study — business problem, methodology, all 5 findings with evidence, and recommendations — is available in [`/pdf/Supermart_Case_Study.pdf`](./pdf/Supermart_Case_Study.pdf).
 
 ---
 
