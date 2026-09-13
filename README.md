@@ -105,7 +105,7 @@ CREATE TABLE fact_products (
 );
 ```
 
-Full SQL scripts, including all 10 diagnostic queries, are in [`Business_Problem_(SQL)`](./sql).
+Full SQL scripts, including all 10 diagnostic queries, are in [Business_Problem_(SQL)](./Business_Problem_%28SQL%29)
 
 ---
 
@@ -147,7 +147,7 @@ The 5 most expensive sampled products (up to **₦524,990**) all carry the ident
 │   ├── create_load_tables.sql
 │   ├── 01_business_questions.sql
 │   ├── 02_business_questions.sql
-│   ├── 04_business_questions.sql
+│   ├── 03_business_questions.sql
 │   ├── 04_business_questions.sql
 │   └── 05_business_questions.sql
 ├── /data
@@ -158,7 +158,7 @@ The 5 most expensive sampled products (up to **₦524,990**) all carry the ident
 │   ├── assortment_mix.png
 │   ├── pricing_distortion.png
 │   └── high_value_risk.png
-└── /docs
+└── Final Report
     └── Supermart_Case_Study.pdf
 ```
 
