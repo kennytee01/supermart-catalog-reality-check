@@ -33,27 +33,27 @@ The dashboard is organized into 5 pages, each answering one core business questi
 ### Page 1 — Catalog Truth
 *Is the catalog what they claim?*
 
-![Catalog Truth Dashboard](screenshots/catalog_truth.png)
+![Catalog Truth Dashboard](Dashboards/catalog_truth.png)
 
 ### Page 2 — Delivery Risk
 *Is "Same-Day" actually consistent?*
 
-![Delivery Risk Dashboard](screenshots/delivery_risk.png)
+![Delivery Risk Dashboard](Dashboards/delivery_risk.png)
 
 ### Page 3 — Assortment Mix
 *Is this really a grocery-first platform?*
 
-![Assortment Mix Dashboard](screenshots/assortment_mix.png)
+![Assortment Mix Dashboard](Dashboards/assortment_mix.png)
 
 ### Page 4 — Pricing Distortion
 *Where do averages lie?*
 
-![Pricing Distortion Dashboard](screenshots/pricing_distortion.png)
+![Pricing Distortion Dashboard](Dashboards/pricing_distortion.png)
 
 ### Page 5 — High-Value Risk
 *What hides inside "Same-Day"?*
 
-![High-Value Risk Dashboard](screenshots/high_value_risk.png)
+![High-Value Risk Dashboard](Dashboards/high_value_risk.png)
 
 ---
 
@@ -62,7 +62,7 @@ The dashboard is organized into 5 pages, each answering one core business questi
 All data was collected directly from the live **supermart.ng** website (August–September 2026). No synthetic, simulated, or assumed data was used at any stage.
 
 **Collection process:**
-- Verified the true, de-duplicated catalog size via Shopify's canonical `/collections/all` endpoint → **25,001 unique products**
+- Verified the true, de-duplicated catalog size via Shopify's canonical [`/collections/all`](https://www.supermart.ng/collections/all) endpoint → **25,001 unique products**
 - Collected real department-level product counts across all **18 published departments**
 - Sampled **240 real, individually named products** with live prices, sale flags, and delivery promises across every department
 - Cross-referenced department-page totals (51,691) against the true catalog size to quantify a confirmed cross-listing pattern
