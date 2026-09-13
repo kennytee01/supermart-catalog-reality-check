@@ -177,5 +177,5 @@ Data Analyst | Excel · SQL · PostgreSQL · Power BI
 
 - 📧 timothykehinde06@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/timothy-kehinde-promise-17810529b)
-- 💻 [Live Dashboard]([https://github.com/kennytee01](https://github.com/kennytee01/supermart-catalog-reality-check)
+- 💻 [GitHub](https://github.com/kennytee01)
 - 📊 [Live Dashboard](https://bit.ly/4qIn19W)
