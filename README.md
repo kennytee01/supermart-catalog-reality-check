@@ -26,7 +26,7 @@ Online grocery platforms operating at scale face a structural risk: as catalog s
 
 ## 🧭 Dashboard Overview
 
-The full interactive dashboard is live here: **[View Live Dashboard](https://bit.ly/4qIn19W)**
+The full interactive dashboard can be watched here: **[Watch Dashboard Walkthrough (Video)](https://youtu.be/1Sse-Bybkk4)**
 
 The dashboard is organized into 5 pages, each answering one core business question. Screenshots below (replace the placeholder paths once uploaded to this repo's `/screenshots` folder).
 
@@ -178,4 +178,4 @@ Data Analyst | Excel · SQL · PostgreSQL · Power BI
 - 📧 timothykehinde06@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/timothy-kehinde-promise-17810529b)
 - 💻 [GitHub](https://github.com/kennytee01)
-- 📊 [Live Dashboard](https://bit.ly/4qIn19W)
+- 📊 [Watch Dashboard Walkthrough (Video)](https://youtu.be/1Sse-Bybkk4)
