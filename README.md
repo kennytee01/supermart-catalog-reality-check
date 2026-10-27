@@ -28,8 +28,6 @@ Online grocery platforms operating at scale face a structural risk: as catalog s
 
 The full interactive dashboard can be watched here: **[Watch Dashboard Walkthrough (Video)](https://youtu.be/1Sse-Bybkk4)**
 
-The dashboard is organized into 5 pages, each answering one core business question. Screenshots below (replace the placeholder paths once uploaded to this repo's `/screenshots` folder).
-
 ### Page 1 — Catalog Truth
 *Is the catalog what they claim?*
 
